@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Kira | Portfolio</title>
+
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+
+<!-- Font Awesome -->
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<!-- Header -->
+
+<header>
+
+<nav>
+
+<div class="logo">
+Kira<span>.</span>
+</div>
+
+
+<ul class="nav-links">
+
+<li><a href="#home">Home</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#skills">Skills</a></li>
+<li><a href="#gallery">Gallery</a></li>
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+
+<div class="nav-icons">
+
+<i class="fa-solid fa-moon" id="theme-btn"></i>
+
+<i class="fa-solid fa-bars" id="menu-btn"></i>
+
+</div>
+
+
+</nav>
+
+</header>
+
+
+
+
+
+<!-- Home -->
+
+<section class="hero" id="home">
+
+
+<div class="hero-left">
+
+
+<p class="welcome">
+Hello, I'm
+</p>
+
+
+<h1>
+Kira
+<span>
+(Hsu Pwint Phyu)
+</span>
+</h1>
+
+
+<h3>
+Corporate Professional
+</h3>
+
+
+<p class="hero-text">
+
+Learning • Growing • Creating
+
+<br>
+
+"Know Your Worth."
+
+</p>
+
+
+<div class="buttons">
+
+<a href="#gallery" class="btn">
+View Gallery
+</a>
+
+
+<a href="#contact" class="btn outline">
+Contact Me
+</a>
+
+
+</div>
+
+
+</div>
+
+
+
+
+<div class="hero-right">
+
+
+<div class="profile-card">
+
+<img src="images/profile.jpg" alt="Kira">
+
+</div>
+
+
+</div>
+
+
+
+</section>
+
+
+
+
+
+
+<!-- About -->
+
+
+<section id="about" class="section">
+
+
+<h2>
+About Me 🌸
+</h2>
+
+
+
+<div class="about-box">
+
+
+<p>
+
+Hello! I'm <b>Kira (Hsu Pwint Phyu)</b>.
+
+I was born in Danuphyu and currently live in Yangon.
+
+I'm a Capricorn who enjoys learning new things and embracing opportunities.
+
+</p>
+
+
+<p>
+
+I studied at <b>British United College</b> and currently work in the <b>ISP industry</b>.
+
+I believe every experience helps me grow personally and professionally.
+
+</p>
+
+
+<p>
+
+In my free time, I enjoy photography 📷,
+listening to music 🎵,
+watching movies 🎬,
+exploring cafés ☕,
+and creating beautiful memories.
+
+</p>
+
+
+<blockquote>
+
+✨ "Know Your Worth." ✨
+
+</blockquote>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+
+<!-- Fun Facts -->
+
+
+<section class="section facts">
+
+
+<h2>
+Little Things About Me ♡
+</h2>
+
+
+
+<div class="cards">
+
+
+<div class="card">
+🌸 Born in Danuphyu
+</div>
+
+
+<div class="card">
+📍 Living in Yangon
+</div>
+
+
+<div class="card">
+♑ Capricorn
+</div>
+
+
+<div class="card">
+💼 ISP Industry
+</div>
+
+
+<div class="card">
+☕ Coffee & Milk Tea Lover
+</div>
+
+
+<div class="card">
+📷 Photography Lover
+</div>
+
+
+<div class="card">
+🎵 Music Lover
+</div>
+
+
+<div class="card">
+🌱 Always Learning
+</div>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+
+<!-- Skills -->
+
+
+<section id="skills" class="section">
+
+
+<h2>
+My Skills 💻
+</h2>
+
+
+<div class="skills">
+
+
+<div>
+HTML
+<span style="width:90%"></span>
+</div>
+
+
+<div>
+Communication
+<span style="width:95%"></span>
+</div>
+
+
+<div>
+Problem Solving
+<span style="width:85%"></span>
+</div>
+
+
+<div>
+Team Work
+<span style="width:90%"></span>
+</div>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+
+<!-- Gallery -->
+
+
+<section id="gallery" class="section">
+
+
+<h2>
+My Gallery 📷
+</h2>
+
+
+<div class="gallery">
+
+
+<img src="images/gallery1.jpg">
+
+<img src="images/gallery2.jpg">
+
+<img src="images/gallery3.jpg">
+
+<img src="images/gallery4.jpg">
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+
+<!-- Contact -->
+
+
+<section id="contact" class="section contact">
+
+
+<h2>
+Contact Me 💌
+</h2>
+
+
+<p>
+Let's connect and create something beautiful.
+</p>
+
+
+<div class="social">
+
+
+<a href="mailto:stupidkira29@gmail.com">
+
+<i class="fa-solid fa-envelope"></i>
+
+</a>
+
+
+
+<a href="#">
+
+<i class="fab fa-instagram"></i>
+
+</a>
+
+
+
+<a href="#">
+
+<i class="fab fa-facebook"></i>
+
+</a>
+
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+<footer>
+
+
+<h3>
+Know Your Worth. ✨
+</h3>
+
+
+<p>
+© 2026 Kira Portfolio. All Rights Reserved.
+</p>
+
+
+</footer>
+
+
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
